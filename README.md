@@ -25,5 +25,5 @@ I use GitHub to showcase practical projects related to:
 - Strengthening my technical portfolio for IT support and systems roles
 
 ## Contact
-- LinkedIn: [Add your LinkedIn URL here]
-- Email: [Add your email address here]
+- LinkedIn: https://www.linkedin.com/in/lungisani-ngcobo-62b0191a2/
+- Email: lungisania@icloud.com
